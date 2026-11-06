@@ -1,0 +1,28 @@
+# Environments & Secrets
+venv/
+env/
+.env
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# OS metadata
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archives & Unzipped duplicates
+*.zip
+*.tar.gz
+football_match_prediction_rag/
+
+# IDE
+.vscode/
+.idea/

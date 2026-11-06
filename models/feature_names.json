@@ -1,0 +1,17 @@
+[
+  "home_points_last5",
+  "away_points_last5",
+  "home_goals_scored_last5",
+  "away_goals_scored_last5",
+  "home_goals_conceded_last5",
+  "away_goals_conceded_last5",
+  "home_goal_diff_last5",
+  "away_goal_diff_last5",
+  "home_win_rate_last5",
+  "away_win_rate_last5",
+  "home_rest_days",
+  "away_rest_days",
+  "implied_prob_home",
+  "implied_prob_draw",
+  "implied_prob_away"
+]
